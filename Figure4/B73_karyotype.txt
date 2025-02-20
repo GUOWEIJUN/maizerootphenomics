@@ -1,0 +1,13 @@
+chr	-	chr1	chr1	0	307041717	grey   
+chr	-	chr2	chr2	0	244442276	grey
+chr	-	chr3	chr3	0	235667834	grey
+chr	-	chr4	chr4	0	246994605	grey
+chr	-	chr5	chr5	0	223902240	grey
+chr	-	chr6	chr6	0	174033170	grey
+chr	-	chr7	chr7	0	182381542	grey
+chr	-	chr8	chr8	0	181122637	grey
+chr	-	chr9	chr9	0	159769782	grey
+chr	-	chr10	chr10	0	150982314	grey
+
+
+
